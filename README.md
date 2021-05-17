@@ -1,5 +1,5 @@
 # MVVMSample006
-Microsoft.Toolkit.Mvvm Sample 6 - progress display (1)
+Microsoft.Toolkit.Mvvm WPF Sample 6 - progress display (1)
 
 Applications that show progress.
 
