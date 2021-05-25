@@ -1,5 +1,5 @@
 # MVVMSample006
-Microsoft.Toolkit.Mvvm WPF Sample 6 - progress display (1)
+MVVM Toolkit (`Microsoft.Toolkit.Mvvm`) WPF Sample 6 - progress display (1)
 
 進捗状況を表示するアプリケーション
 
